@@ -1,0 +1,9 @@
+@charset"utf-8";
+ div{
+     width:30%;
+     margin:1.25%;
+     padding-bottom:30%;
+     background:#fea500;
+     float:left;
+     border-radius: 5px;
+            }
